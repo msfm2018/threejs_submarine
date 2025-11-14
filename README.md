@@ -1,4 +1,11 @@
+## 🎬 应用截图
+<p align="center">
+  <img src="https://github.com/msfm2018/threejs_submarine/blob/main/uindex.png?raw=true" width="1200">
+
+</p>
+
 # three
+
 
 ## Project setup
 ```
